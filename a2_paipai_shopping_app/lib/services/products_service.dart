@@ -1,2 +1,0 @@
-void initProducts() {}
-void addProducts() {}
