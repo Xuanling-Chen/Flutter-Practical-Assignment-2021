@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 
 class Exercise3 extends StatelessWidget {
   static final title = 'Exercise 3';
@@ -12,7 +13,27 @@ class Exercise3 extends StatelessWidget {
       appBar: AppBar(
         title: Text(title),
       ),
-      body: null,
+      body: MyApp(),
     );
   }
 }
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Center(child: _buildStack());
+  }
+}
+
+Widget _buildStack() => Stack(
+      children: List.generate(4, (index) {
+        return Container(
+          width: 100.0,
+          margin: EdgeInsets.only(left: 80.0 * index),
+          decoration: BoxDecoration(
+            border: new Border.all(color: Colors.grey, width: 3),
+            shape: BoxShape.circle,
+          ),
+        );
+      }),
+    );

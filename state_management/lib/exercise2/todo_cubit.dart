@@ -21,11 +21,21 @@ class TodoCubit extends Cubit<TodoState> {
   }
 
   /// @TODO: Add a todo item
-  void add(TodoModel todo) {}
+  void add(TodoModel todo) {
+    TodoState newState = state.copyWith(state.data).add(todo);
+    emit(newState);
+  }
 
   /// @TODO: Remove a todo item by index
-  void remove(int index) {}
+  void remove(int index) {
+    emit(state.copyWith(state.data).remove(index));
+  }
 
   /// @TODO: Toggle a todo item's complete status
-  void toggle(int index) {}
+  void toggle(int index) {
+    print(state.data.elementAt(index).completed);
+    emit(state
+        .copyWith(state.data)
+        .toggle(index, !state.data.elementAt(index).completed));
+  }
 }
