@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:orgin_repo" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:orgin_repo" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="559cbd33-174a-45be-a5c4-51bfdd1e6b2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/cubit/cart_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/cubit/cart_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/cubit/product_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/cubit/product_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/data/products_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/model/cart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/model/product_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/pages/admin_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/pages/cart_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/pages/product_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/pages/products_grid.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/pages/search_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/pages/tab_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/route.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/services/cart_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/services/products_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/services/search_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a2_paipai_shopping_app/lib/utils/product_util.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping_app_style_test/shopping_app_style_test/images/pc1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping_app_style_test/shopping_app_style_test/images/pc2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping_app_style_test/shopping_app_style_test/images/pc3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping_app_style_test/shopping_app_style_test/images/pc4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping_app_style_test/shopping_app_style_test/images/pc5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping_app_style_test/shopping_app_style_test/images/pc6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a1_styling_exercise/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../a1_styling_exercise/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise4.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise4.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise5.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise5.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise6.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../a1_styling_exercise/lib/pages/exercise6.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a2_paipai_shopping_app/images/ProductList.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/exercise1/layout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/exercise1/layout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/exercise2/todo_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/exercise2/todo_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/exercise2/todo_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/exercise2/todo_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/exercise3/todo_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/exercise3/todo_page.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="de0daee1453a6a6a718824944f215caa6890fc4a" />
+  </component>
+  <component name="ProjectId" id="1r6fgjrY9jPJS94JEIVLqzrcHu3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="559cbd33-174a-45be-a5c4-51bfdd1e6b2d" name="Default Changelist" comment="" />
+      <created>1618301572518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618301572518</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1618875716228">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1618875716228" />
+    <state x="133" y="24" key="Git.Interactive.Rebase.Dialog" timestamp="1618556454914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="133" y="24" key="Git.Interactive.Rebase.Dialog/0.0.1280.680@0.0.1280.680" timestamp="1618556454914" />
+    <state width="1236" height="162" key="GridCell.Tab.0.bottom" timestamp="1618650969511">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618650969511" />
+    <state width="1236" height="162" key="GridCell.Tab.0.center" timestamp="1618650969511">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618650969511" />
+    <state width="1236" height="162" key="GridCell.Tab.0.left" timestamp="1618650969511">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618650969511" />
+    <state width="1236" height="162" key="GridCell.Tab.0.right" timestamp="1618650969511">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618650969511" />
+    <state x="394" y="202" key="git4idea.rebase.GitRebaseDialog" timestamp="1618556446055">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="202" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1618556446055" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app.dart</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
